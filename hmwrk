@@ -64,7 +64,7 @@
 		</header>
 
 <!-- часть страницы, которая под шапкой -->
-        <header style="background-color:snow; padding-top:70px; "> 
+        <header style="background-color:purple; padding-top:70px; "> 
 		    <section id="portfolio">
 			    <div class="container">
 
