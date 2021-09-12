@@ -64,7 +64,7 @@
 		</header>
 
 <!-- часть страницы, которая под шапкой -->
-<footer style="background-blend-mode:blue;"></style>
+</body style="background-color:blue; padding-top:70px; "> 
 		<section id="portfolio">
 			<div class="container">
 
