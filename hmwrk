@@ -44,7 +44,7 @@
 
 <!-- начинается шапка. у тега header есть атрибут style, который задает цвет фона и отступы. поменяйте значения атрибутов и посмотрите, как изменится страница -->
 
-		<header style="background-color:pink; padding-top:70px; "> 
+		<header style="background-color:lightpink; padding-top:70px; "> 
 			<div class="container"> 
 				<div class="row">
 					<div class="col-md-4">
@@ -64,9 +64,8 @@
 		</header>
 
 <!-- часть страницы, которая под шапкой -->
-        <header style="background-color:pink; padding-top:70px; "> 
-		    <section id="portfolio">
-			    <div class="container">
+		<section id="portfolio">
+			<div class="container">
 
 <!-- атрибут col-md-... говорит, что контент будет разделен на несколько столбцов, их ширина соотносится как 3 - 6 - 3 (Bootstrap использует воображаемую сетку из 12 равных по ширине колонок) -->
 				<div class="col-md-3">
@@ -98,6 +97,7 @@
 						свободное время предпочитаю проводить с друзьями <br>
 						люблю смотреть американские talk show и слушать подкасты <br>
 						хотела пойти в физмат в 10 класс, но пошла в лингвистический <br>
+						люблю все, что связано с лягушками <br>
 						мечтаю стать счастливым человеком</p>
 					</article>
 				</div>
