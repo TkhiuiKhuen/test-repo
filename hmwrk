@@ -44,7 +44,7 @@
 
 <!-- начинается шапка. у тега header есть атрибут style, который задает цвет фона и отступы. поменяйте значения атрибутов и посмотрите, как изменится страница -->
 
-		<header style="background-color:lavenderblush; padding-top:70px; "> 
+		<header style="background-color:salmon; padding-top:70px; "> 
 			<div class="container"> 
 				<div class="row">
 					<div class="col-md-4">
@@ -64,7 +64,7 @@
 		</header>
 
 <!-- часть страницы, которая под шапкой -->
-<section style="background-color:lightsteelblue; padding-top:70px; "> 
+<section style="background-color:lavenderblush; padding-top:70px; "> 
 		<section id="portfolio">
 			<div class="container">
 
@@ -78,7 +78,7 @@
 					</article>
 					<article>
 						<h3>Родной город</h2>
-						<p>Клиn</p>
+						<p>Клин</p>
 					</article>
 					<article>
 						<h3>Школа</h2>
