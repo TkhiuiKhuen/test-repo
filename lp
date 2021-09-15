@@ -44,7 +44,7 @@
 
 <!-- начинается шапка. у тега header есть атрибут style, который задает цвет фона и отступы. поменяйте значения атрибутов и посмотрите, как изменится страница -->
 
-		<header style="background-color:salmon; padding-top:70px; "> 
+		<header style="background-color:lavender; padding-top:70px; "> 
 			<div class="container"> 
 				<div class="row">
 					<div class="col-md-4">
